@@ -14,3 +14,4 @@ const RoleDescription: Record<UserRole, string> = {
   [UserRole.editor]: 'Editor with permissions to modify and create content.',
   [UserRole.guest]: 'Guest with read-only access to the content.',
 };
+console.log(RoleDescription);

@@ -6,6 +6,8 @@ type User = {
 }
 
 function createOrUpdateUser(initialValues: Partial<User>) {
+  console.log(initialValues);
+  
 }
 
 createOrUpdateUser({ 

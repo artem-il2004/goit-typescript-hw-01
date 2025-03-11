@@ -23,3 +23,4 @@ const poly: User = {
   age: 25,
   email: 'poly@example.com'
 };
+console.log(mango, poly);
